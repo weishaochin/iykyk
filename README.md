@@ -1,6 +1,13 @@
 # iykyk
 Cloud Computing Project
 
+<h2><b>Members</b></h2>
+<li>Chin Wei Shao 1181200773</li>
+<li>Tan Yen Hui 1181201293</li>
+<li>Chong Jia Jun 1181200725</li>
+<li>Johnny Stanley Wong 1181200726</li>
+<li>Gian Xiu Lin 1181203339</li>
+
 <h2><b>Steps Taken To Implement The App</b></h2>
 First of all, all of us have a group meeting to discuss what we want to do in this project. We have discussed and list out the function that we are planning to do.
 Then we decided to do the project using MIT App Inventor as it is easy and user-friendly to us. MIT App Inventor provides QR code for us to get access to the applications
