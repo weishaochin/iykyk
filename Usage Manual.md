@@ -4,4 +4,4 @@ After downloaded, user can install the application named as MyBMIUSR. User can c
 
 <h2><b>Health Monitoring</b></h2>
 In the application, user will be able to see the time and two button which is BMI Calculator and Body Fat Calculator in the first home page. 
-![1](https://user-images.githubusercontent.com/63381466/140642285-5278e36d-dcff-4d83-bdf1-ed937e634655.jpg)
+<img src="App Images/1.png">
